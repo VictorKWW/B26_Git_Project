@@ -1,9 +1,10 @@
 package day0;
 
-public class jamesBand
+public class jamesBand{
   
   public static void main(String[] args) {
-  System.out.println("JamesBand");
+    System.out.println("JamesBand");
+  }
 
 
 }
